@@ -1,3 +1,5 @@
+//write a program to diaplay the cube of the number upon given integer
+
 package proj2;
 
 import java.util.Scanner;
